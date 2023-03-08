@@ -38,16 +38,17 @@ import {
     },
     {
       id: "work",
-      title: "Blogs",
-    },
-    {
-      id: "feedback",
-      title: "Feedback",
+      title: "Articles",
     },
     {
       id: "project",
       title: "Projects",
     },
+    {
+      id: "feedback",
+      title: "Feedback",
+    },
+    
 
     {
       id: "contact",
